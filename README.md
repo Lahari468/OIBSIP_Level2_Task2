@@ -4,7 +4,6 @@ This is a simple tribute web page dedicated to **Marie Curie**, developed using 
 
 >  **Marie Curie** was a pioneering physicist and chemist, best known for her research on radioactivity and as the first woman to win a Nobel Prize.
 
----
 
 ## 🌟 Project Overview
 
